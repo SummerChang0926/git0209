@@ -6,4 +6,5 @@ public class User {
     private Integer id;
     private String name;
     private Date date;
+    private Boolean bool;
 }
